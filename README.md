@@ -21,9 +21,15 @@ Desarrollador enfocado en **.NET Framework** y la gestión de datos con **SQL Se
 -  Actualmente estoy estudiando en la carrera: **Desarrollo y gestion de software**
 -  Perfeccionando mis habilidades en: **Entity Framework Core, Web APIs y Microservicios.**
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
-  <!--RECENT_ACTIVITY:start-->
+### :zap: actividad reciente
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Esau-Torres/deepmarket](https://github.com/Esau-Torres/deepmarket)<br>
+2. ⬆️ Pushed undefined commit(s) to [Esau-Torres/PORTAFOLIO](https://github.com/Esau-Torres/PORTAFOLIO)<br>
+3. ⬆️ Pushed undefined commit(s) to [Esau-Torres/PORTAFOLIO](https://github.com/Esau-Torres/PORTAFOLIO)<br>
+4. ⬆️ Pushed undefined commit(s) to [Esau-Torres/PORTAFOLIO](https://github.com/Esau-Torres/PORTAFOLIO)<br>
+5. ⬆️ Pushed undefined commit(s) to [Esau-Torres/PORTAFOLIO](https://github.com/Esau-Torres/PORTAFOLIO)<br>
 <!--RECENT_ACTIVITY:end-->
-
 <!--RECENT_ACTIVITY:last_update-->
-
+Last Updated: Thursday, February 12th, 2026, 1:19:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
