@@ -24,5 +24,9 @@ Desarrollador enfocado en **.NET Framework** y la gestión de datos con **SQL Se
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
 
 ### ⚡ Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 ---
