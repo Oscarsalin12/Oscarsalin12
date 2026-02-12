@@ -13,6 +13,7 @@ Desarrollador enfocado en **.NET Framework** y la gestión de datos con **SQL Se
 
 ### Bases de datos 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 ###  Sobre mí
