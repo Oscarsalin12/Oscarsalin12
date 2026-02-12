@@ -21,5 +21,6 @@ Desarrollador enfocado en **.NET Framework** y la gestión de datos con **SQL Se
 -  Actualmente estoy estudiando en la carrera: **Desarrollo y gestion de software**
 -  Perfeccionando mis habilidades en: **Entity Framework Core, Web APIs y Microservicios.**
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
-### :zap: actividad reciente
+###  Actividad reciente
 
+---
