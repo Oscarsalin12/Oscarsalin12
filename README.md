@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Oscar j Salinas 
 
-<!--
-**Oscarsalin12/Oscarsalin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en .NET Framework y la gestión de datos con SQL Server. Me especializo en crear aplicaciones robustas, escalables y eficientes.
 
-Here are some ideas to get you started:
+###  Mi Stack Tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+###  Sobre mí
+
+-  Actualmente estoy estudiando en la carrera: **Desarrollo y gestion de software**
+-  Perfeccionando mis habilidades en: **Entity Framework Core, Web APIs y Microservicios.**
+-  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
+-  Pregúntame sobre: Arquitectura limpia , LINQ y optimización de consultas SQL.
