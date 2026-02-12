@@ -1,6 +1,6 @@
 # ¡Hola! Soy Oscar j Salinas 
 
-Desarrollador enfocado en .NET Framework y la gestión de datos con SQL Server. Me especializo en crear aplicaciones robustas, escalables y eficientes.
+Desarrollador enfocado en **.NET Framework** y la gestión de datos con **SQL Server**. Me especializo en crear aplicaciones robustas, escalables y eficientes.
 
 ###  Mi Stack Tecnológico
 
@@ -10,7 +10,7 @@ Desarrollador enfocado en .NET Framework y la gestión de datos con SQL Server. 
 
 ---
 ###  Sobre mí
-
+-  Me gustan los videojuegos y la musica.
 -  Actualmente estoy estudiando en la carrera: **Desarrollo y gestion de software**
 -  Perfeccionando mis habilidades en: **Entity Framework Core, Web APIs y Microservicios.**
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
