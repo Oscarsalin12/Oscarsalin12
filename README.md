@@ -3,7 +3,6 @@
 Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 
 ###  Lenguajes utilizados
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,6 +18,9 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 
 ### Sistema Operativo 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ###  Sobre mí
