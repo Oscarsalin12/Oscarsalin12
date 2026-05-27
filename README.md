@@ -41,6 +41,16 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 -  Actualmente estudio la carrera: **Desarrollo y Gestión de Software**.
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
 
+<h3 align="center">🕹️ Contribution Graph</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscarsalin12/Oscarsalin12/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oscarsalin12/Oscarsalin12/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Oscarsalin12/Oscarsalin12/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Oscarsalin12/EvaLuma](https://github.com/Oscarsalin12/EvaLuma) from [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
