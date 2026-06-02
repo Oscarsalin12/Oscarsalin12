@@ -53,14 +53,14 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Oscarsalin12](https://github.com/Oscarsalin12/Oscarsalin12)<br>
-2. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Oscarsalin12](https://github.com/Oscarsalin12/Oscarsalin12)<br>
-3. 🔱 Forked [Oscarsalin12/EvaLuma](https://github.com/Oscarsalin12/EvaLuma) from [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
-4. 🤝 Became collaborator on [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
-5. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Ejercicios_Extrasion_Base](https://github.com/Oscarsalin12/Ejercicios_Extrasion_Base)<br>
+1. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Proyecto_Desarrollo_dispo](https://github.com/Oscarsalin12/Proyecto_Desarrollo_dispo)<br>
+2. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Proyecto_Desarrollo_dispo](https://github.com/Oscarsalin12/Proyecto_Desarrollo_dispo)<br>
+3. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Oscarsalin12](https://github.com/Oscarsalin12/Oscarsalin12)<br>
+4. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Oscarsalin12](https://github.com/Oscarsalin12/Oscarsalin12)<br>
+5. 🔱 Forked [Oscarsalin12/EvaLuma](https://github.com/Oscarsalin12/EvaLuma) from [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 5:53:57 PM
+Last Updated: Tuesday, June 2nd, 2026, 4:44:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
