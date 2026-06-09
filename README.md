@@ -55,12 +55,12 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
 2. ⬆️ Pushed undefined commit(s) to [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
-3. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Proyecto_Desarrollo_dispo](https://github.com/Oscarsalin12/Proyecto_Desarrollo_dispo)<br>
+3. ⬆️ Pushed undefined commit(s) to [Elrorro334/EvaLuma](https://github.com/Elrorro334/EvaLuma)<br>
 4. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Proyecto_Desarrollo_dispo](https://github.com/Oscarsalin12/Proyecto_Desarrollo_dispo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Oscarsalin12](https://github.com/Oscarsalin12/Oscarsalin12)<br>
+5. ⬆️ Pushed undefined commit(s) to [Oscarsalin12/Proyecto_Desarrollo_dispo](https://github.com/Oscarsalin12/Proyecto_Desarrollo_dispo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 8th, 2026, 4:06:11 PM
+Last Updated: Tuesday, June 9th, 2026, 4:07:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
