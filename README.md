@@ -23,13 +23,13 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" height="40" alt="linuxmint logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img width="12" />
-    </div>
+
 ###  Sobre mí
 -  Me gustan los videojuegos y la música.
 -  Actualmente estudio la carrera: **Desarrollo y Gestión de Software**.
 -  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
 
-<h3 align="center">🕹️ Contribution Graph</h3>
+<h3 align="center"> Contribution Graph</h3>
 
 <div align="center">
   <picture>
