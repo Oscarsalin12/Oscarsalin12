@@ -2,7 +2,7 @@
 
 Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 
-###  Lenguajes utilizados
+###  Lenguajes y herramientas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -21,18 +21,12 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
     </div>
-
-###  Bases de datos
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sqlserver logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
   <img width="12" />
     </div>
-
-### Sistema Operativo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" height="40" alt="linuxmint logo" />
-
-### DevOps
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img width="12" />
 
