@@ -55,9 +55,13 @@
 ### 📈 GitHub Stats & Grind
 
 <!-- Estructura exacta de los recuadros de la imagen de referencia -->
+### 📈 GitHub Stats & Grind
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=dark&hide_border=false&langs_count=6" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=dark&hide_border=false&count_private=true)](https://github.com/Oscarsalin12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=dark&hide_border=false&langs_count=6)](https://github.com/Oscarsalin12)
+
 </div>
 
 <br>
@@ -86,15 +90,11 @@
 ### ⚡ Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Oscarsalin12/Backend_BeatWatch](https://github.com/Oscarsalin12/Backend_BeatWatch) from [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
-2. ⬆️ Pushed undefined commit(s) to [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
-3. ⬆️ Pushed undefined commit(s) to [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
-4. 💪 Opened PR [#79](undefined) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
-5. ⬆️ Pushed undefined commit(s) to [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 25th, 2026, 1:38:20 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
