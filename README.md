@@ -1,36 +1,68 @@
-# ¡Hola! Soy Oscar j Salinas 
+<div align="center">
 
-Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
+  # 👋 ¡Hola! Soy Oscar J. Salinas
 
-###  Lenguajes y herramientas
+  **Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.**
+
+  *un commit a la vez*
+
+  <br>
+
+  <!-- Logo gigante de tu lenguaje TOP: C# -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="110" height="110" alt="C# Logo" />
+
+</div>
+
+---
+
+###  My Vibe Statement
+
+> *"Desarrollando soluciones backend y web modernas con C# / .NET, NestJS y arquitecturas escalables., los videojuegos y la buena música."*
+
+---
+
+### Stack tecnico & Arsenal
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor logo" />
-<img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sqlserver logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" height="40" alt="linuxmint logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
-  <img width="12" />
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-###  Sobre mí
--  Me gustan los videojuegos y la música.
--  Actualmente estudio la carrera: **Desarrollo y Gestión de Software**.
--  Busco colaborar en: Proyectos de código abierto relacionados con .NET.
+  <br>
 
-<h3 align="center"> Contribution Graph</h3>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+  <br>
+
+  <!-- Herramientas y Bases de datos -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87C040?style=for-the-badge&logo=linuxmint&logoColor=white" />
+
+</div>
+
+---
+
+### 📈 GitHub Stats & Grind
+
+<!-- Estructura exacta de los recuadros de la imagen de referencia -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=dark&hide_border=false&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=dark&hide_border=false&langs_count=6" />
+</div>
+
+<br>
+
+<!-- Gráfico dinámico de Pacman -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscarsalin12/Oscarsalin12/output/pacman-contribution-graph-dark.svg">
@@ -39,7 +71,20 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
   </picture>
 </div>
 
+---
+
+
+
+###  Sobre mí
+
+-  Estudiante de **Desarrollo y Gestión de Software**.
+-  Apasionado por colaborar en proyectos Open Source en el ecosistema **.NET**.
+-  Gamer y fanático de la música.
+
+---
+
 ### ⚡ Actividad reciente
+
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Oscarsalin12/Backend_BeatWatch](https://github.com/Oscarsalin12/Backend_BeatWatch) from [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
 2. ⬆️ Pushed undefined commit(s) to [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)<br>
@@ -51,4 +96,16 @@ Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, August 25th, 2026, 1:38:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
+
 ---
+
+###  Contacto
+
+<div align="left">
+  <a href="mailto:oscarsa48700@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Oscarsalin12">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
