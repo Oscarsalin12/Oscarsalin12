@@ -54,8 +54,6 @@
 
 ### 📈 GitHub Stats & Grind
 
-<!-- Estructura exacta de los recuadros de la imagen de referencia -->
-### 📈 GitHub Stats & Grind
 
 <div align="center">
 
