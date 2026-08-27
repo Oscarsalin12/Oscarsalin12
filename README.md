@@ -55,12 +55,7 @@
 ### Estadísticas y trabajo de GitHub
 
 <div align="center">
-  <!-- GitHub Stats y Streak -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarsalin12&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
-  <br><br>
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="48%" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/Oscarsalin12?template=classic&config.timezone=America%2FMexico_City" alt="Metrics" />
 </div>
 
 <!-- Gráfico dinámico de Pacman -->
