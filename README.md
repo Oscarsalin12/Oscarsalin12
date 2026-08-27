@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 ¡Hola! Soy Oscar J. Salinas
+  #  ¡Hola! Soy Oscar J. Salinas
 
   **Desarrollador enfocado en crear aplicaciones robustas, escalables y eficientes.**
 
@@ -82,14 +82,10 @@
 
 ---
 
-### ⚡ Actividad reciente
+###  Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/beatwatchds-max/Backend_BeatWatch/pull/79) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)
-2. 💪 Opened PR [#79](https://github.com/beatwatchds-max/Backend_BeatWatch/pull/79) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)
-3. 🎉 Merged PR [#78](https://github.com/beatwatchds-max/Backend_BeatWatch/pull/78) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)
-4. 💪 Opened PR [#78](https://github.com/beatwatchds-max/Backend_BeatWatch/pull/78) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)
-5. 🎉 Merged PR [#77](https://github.com/beatwatchds-max/Backend_BeatWatch/pull/77) in [beatwatchds-max/Backend_BeatWatch](https://github.com/beatwatchds-max/Backend_BeatWatch)
+
 <!--END_SECTION:activity-->
 
 ---
