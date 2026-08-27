@@ -15,7 +15,7 @@
 
 ---
 
-###  My Vibe Statement
+###  My vibes
 
 > *"Desarrollando soluciones backend y web modernas con C# / .NET, NestJS y arquitecturas escalables., los videojuegos y la buena música."*
 
@@ -52,14 +52,18 @@
 
 ---
 
-### 📈 GitHub Stats & Grind
+### Estadísticas y trabajo de GitHub
 
+
+### Estadísticas y trabajo de GitHub
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=dark&hide_border=false&count_private=true)](https://github.com/Oscarsalin12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=dark&hide_border=false&langs_count=6)](https://github.com/Oscarsalin12)
-
+  <!-- GitHub Stats y Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscarsalin12&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarsalin12&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <br><br>
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalin12&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="48%" alt="Top Langs" />
 </div>
 
 <br>
@@ -75,6 +79,13 @@
 
 ---
 
+###  Sobre mí
+
+-  Estudiante de **Desarrollo y Gestión de Software**.
+-  Apasionado por colaborar en proyectos Open Source en el ecosistema **.NET**.
+-  Gamer y fanático de la música.
+
+---
 
 
 ###  Sobre mí
@@ -87,9 +98,8 @@
 
 ### ⚡ Actividad reciente
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 
